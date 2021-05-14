@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=houyawei-NO1&theme=buefy&show_icons=true&count_private=true)
 
-- ⚡ Fun fact: 我的足迹
+🌱我的足迹🌱
 
 [CSDN](https://blog.csdn.net/u011738895?spm=1010.2135.3001.5343)
 
