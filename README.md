@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=houyawei-NO1&theme=buefy&show_icons=true&count_private=true)
+
+![amazfitwatchfaces (WF maker)](https://amazfitwatchfaces.com/search/verge-lite/authorID/35161)
