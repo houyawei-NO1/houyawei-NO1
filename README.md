@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=houyawei-NO1&theme=buefy&show_icons=true&count_private=true)
 
+<!--
 ## 🌱我的足迹🌱
 
 ### CSDN[(炮灰)](https://blog.csdn.net/u011738895?spm=1010.2135.3001.5343)
@@ -28,4 +29,6 @@ Here are some ideas to get you started:
 ### 坚果PRO2S[(某版主)](https://bbs.smartisan.com/forum.php?mod=forumdisplay&fid=210)
 
 ### Deepin[(炮灰)](https://bbs.deepin.org/mine/post)
+
+-->
 
