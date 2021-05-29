@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=houyawei-NO1&theme=buefy&show_icons=true&count_private=true)
 
+[![酷安粉丝][coolapk]](http://www.coolapk.com/u/2864549) [![b站粉丝][bilibili]](https://space.bilibili.com/25818910)
+
 <!--
 ## 🌱我的足迹🌱
 
