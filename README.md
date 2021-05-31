@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=houyawei-NO1&theme=buefy&show_icons=true&count_private=true&card_width=400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=houyawei-NO1&theme=buefy&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houyawei-NO1&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houyawei-NO1&card_width=500)
 
 [![酷安粉丝][coolapk]](http://www.coolapk.com/u/1096145)  [![b站粉丝][bilibili]](https://space.bilibili.com/85121844)  [![Instagram][instagram]](https://www.instagram.com/w1147439990/)
 
