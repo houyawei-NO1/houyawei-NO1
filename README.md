@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 [![酷安粉丝][coolapk]](http://www.coolapk.com/u/1096145) [![b站粉丝][bilibili]](https://space.bilibili.com/85121844) [![Instagram][instagram]](https://www.instagram.com/w1147439990/)
 
-[![Twitter][twitter]](https://twitter.com/NOVDEC19) [![微博][weibo]](https://weibo.com/u/5913951822) [![GitHub][github]](https://github.com/houyawei-NO1)
+[![Twitter][twitter]](https://twitter.com/NOVDEC19) [![微博][weibo]](https://weibo.com/u/5913951822) [![网易云][music]](https://music.163.com/#/user/home?id=335756753)
 
-[![网易云][music]](https://music.163.com/#/user/home?id=335756753)
+[![GitHub][github]](https://github.com/houyawei-NO1)
+
+
 
 
 <!--
